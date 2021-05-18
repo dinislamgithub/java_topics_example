@@ -11,6 +11,7 @@ enum Direction {
     WEST,
     NORTH,
     SOUTH
+
 }
 
 enum Position implements EnumInterface{
@@ -85,7 +86,6 @@ public class EnumExample {
 
 
 
-
     }
 
 
@@ -148,3 +148,4 @@ class EnumDemo{
 //http://tutorials.jenkov.com/java/enums.html
 //https://www.programiz.com/java-programming/enums
 //https://www.baeldung.com/a-guide-to-java-enums
+//https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/
